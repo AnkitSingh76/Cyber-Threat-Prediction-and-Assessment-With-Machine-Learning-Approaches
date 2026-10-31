@@ -1,0 +1,4 @@
+﻿Model,Profiles evaluated,Number of clusters,Anomalies detected,Normal profiles,Anomaly percentage,Mean anomaly score,Mean anomaly score (detected anomalies),Calinski-Harabasz,Davies-Bouldin,Silhouette (sample),Status
+K-Means,69113,8.0,,,,,,7572.25429082932,1.777893587787461,0.1994407500899033,OK
+GMM,69113,8.0,,,,,,6324.99379637579,1.9083231957481894,0.18201779467186494,OK
+Isolation Forest,69113,,11799.0,57314.0,17.072,0.4456318139089081,0.529631675433481,,,,OK - anomaly detection metrics; not classification accuracy
